@@ -121,6 +121,7 @@ Sorumluluk Reddi
 
 Bu proje, SCP Foundation'ın (scp-wiki.wikidot.com) ortak kurgu evrenine dayanan, hayran yapımı ve ticari olmayan bir projedir. SCP Foundation içeriği CC BY-SA 3.0 lisansı altındadır. Bu proje SCP Foundation ile bağlantılı değildir ve onlar tarafından desteklenmemektedir.
 
+<img width="3258" height="4320" alt="SteamMockup" src="https://github.com/user-attachments/assets/2eda5b8c-a62d-4409-8c3e-b38edf252f95" />
 <img width="2556" height="1435" alt="image" src="https://github.com/user-attachments/assets/22634285-89d0-40d2-bff7-30329b3613fa" />
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/94da0578-ef43-4ed6-b785-85e562f9fb76" />
 <img width="2555" height="1439" alt="image" src="https://github.com/user-attachments/assets/a51bf1aa-91cd-4d6e-acfb-c1fa38674c17" />
