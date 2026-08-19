@@ -125,3 +125,4 @@ Bu proje, SCP Foundation'ın (scp-wiki.wikidot.com) ortak kurgu evrenine dayanan
 <img width="2555" height="1439" alt="image" src="https://github.com/user-attachments/assets/a51bf1aa-91cd-4d6e-acfb-c1fa38674c17" />
 <img width="2556" height="1435" alt="image" src="https://github.com/user-attachments/assets/22634285-89d0-40d2-bff7-30329b3613fa" />
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/b32da4b1-8019-4018-9091-8691d785a26d" />
+<img width="2528" height="1431" alt="image" src="https://github.com/user-attachments/assets/68c9a32a-72c5-4236-af53-7afa0e345f76" />
